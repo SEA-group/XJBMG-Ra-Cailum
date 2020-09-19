@@ -1,6 +1,6 @@
 # Ra Cailum
 
-Skin modification for tier 9 battleship **Jean Bart**. 
+Model modification for tier 9 battleship **Jean Bart**. 
 
 Presented by FABAJI, SEA group
 
